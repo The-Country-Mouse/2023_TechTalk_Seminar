@@ -19,3 +19,4 @@ History
 |------|---|---|
 |1월 7일|윤영미|[메세지큐](https://github.com/The-Country-Mouse/2023_TechTalk_Seminar/blob/main/1week/%E1%84%86%E1%85%A6%E1%84%89%E1%85%A6%E1%84%8C%E1%85%B5%E1%84%8F%E1%85%B21.pdf)|
 |1월 15일|지현정|[레디스](https://github.com/The-Country-Mouse/2023_TechTalk_Seminar/blob/main/2week/Redis.pdf)|
+|2월 05일|이지유|[Netty](https://github.com/The-Country-Mouse/2023_TechTalk_Seminar/blob/main/3week/Netty.pdf)|
